@@ -1,2 +1,3 @@
 # learn
-My first github repository
+
+Created by Oto-obong Ekim
